@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.25
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftIto", "SoftIto\SoftIto.csproj", "{D6DA3014-807D-4330-BCB5-754FA7122437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6DA3014-807D-4330-BCB5-754FA7122437}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{D6DA3014-807D-4330-BCB5-754FA7122437}.Debug|anycpu.Build.0 = Debug|anycpu
+		{D6DA3014-807D-4330-BCB5-754FA7122437}.Release|anycpu.ActiveCfg = Release|anycpu
+		{D6DA3014-807D-4330-BCB5-754FA7122437}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B97E5491-5F01-4CC7-935A-5BBACD9F928B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+/Users/zeyteymen/Projects/SoftIto/SoftIto/bin/Debug/SoftIto.exe
+/Users/zeyteymen/Projects/SoftIto/SoftIto/bin/Debug/SoftIto.pdb
+/Users/zeyteymen/Projects/SoftIto/SoftIto/obj/Debug/SoftIto.csproj.AssemblyReference.cache
+/Users/zeyteymen/Projects/SoftIto/SoftIto/obj/Debug/SoftIto.csproj.CoreCompileInputs.cache
+/Users/zeyteymen/Projects/SoftIto/SoftIto/obj/Debug/SoftIto.exe
+/Users/zeyteymen/Projects/SoftIto/SoftIto/obj/Debug/SoftIto.pdb
